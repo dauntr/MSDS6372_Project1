@@ -80,10 +80,9 @@ proc reg data = Hybrid2 corr plots(label) = all;
 
 /* Linear Modeling Assumptions All Variables */
 proc glm data = Hybrid2 plots=all;
-  class carclass_id;
-  model accelrate = year msrp mpg mpgmpge carclass_id; 
-run;
-quit;
+  	class carclass_id;
+  	model accelrate = year msrp mpg mpgmpge carclass_id; 
+	run; quit;
 
 /* Model Selection simple glmselect with no interaction variables Stepwise no CV*/	
 proc glmselect data = Hybrid2;
@@ -184,7 +183,50 @@ proc glmselect data = Hybrid2 plots(stepaxis = number) = (criterionpanel ASEPlot
 				RMSE 2.055 Adj R-Sq 0.513 AICC 201.986 SBC 128.703 CVPRESS 269.307 */	
 
 /* Final Model Fit Diagnostics */
-proc glm data = Hybrid2 plots=all;
-  model accelrate = msrp mpg year*msrp; 
+data HybridReg;
+set Hybrid2;
+year_msrp=year*msrp;
+K10= msrp/10000;
+year_K10 = (year*msrp)/10000;
 run;
-quit;
+
+ods graphics on;
+proc ttest data =HybridReg h0=10.56 plots(showh0);
+      var accelrate;
+   run; 
+ods graphics off;
+
+proc glm data = HybridReg plots=all;
+	model accelrate = msrp mpg year*msrp;
+	run; quit;
+
+proc reg data = HybridReg corr plots(label) = all;
+	model accelrate = msrp mpg year_msrp/ VIF CLB CLI CLM;  
+	title 'Hybrid Car Data Model';
+	run; quit; /* F-value = 63.8, Adjusted R-Square = .561, PRESS = 611.803 */ 
+
+proc reg data = HybridReg corr plots(label) = all;
+	model accelrate = msrp mpg year_K10/ VIF CLB CLI CLM;  
+	title 'Hybrid Car Data Model';
+	run; quit; /* F-value = 63.8, Adjusted R-Square = .561, PRESS = 611.803 */
+	
+proc reg data = HybridReg corr plots(label) = all;
+	model accelrate = mpg year_msrp/ VIF CLB CLI CLM;  
+	title 'Hybrid Car Data Model';
+	run; quit;/* F-value = 78.19, Adjusted R-Square = .504, PRESS = 670.042 */
+
+proc reg data = HybridReg corr plots(label) = all;
+	model accelrate = mpg year_K10/ VIF CLB CLI CLM;  
+	title 'Hybrid Car Data Model';
+	run; quit;/* F-value = 78.19, Adjusted R-Square = .504, PRESS = 670.042 */
+
+proc reg data = HybridReg corr plots(label) = all;
+	model accelrate = K10 mpg year_K10/ VIF CLB CLI CLM;  
+	title 'Hybrid Car Data Model';
+	run; quit; /* F-value = 63.8, Adjusted R-Square = .561, PRESS = 611.803 */
+
+
+
+
+	
+
