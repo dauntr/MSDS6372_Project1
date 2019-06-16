@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  8 JUN 2019 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 JUN 2019 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1242,68 +1242,111 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count161
 \@thisrulewidth=\dimen270
 )
-Class acmart Info: Suppressing bibformat on input line 10.
-\c@theorem=\count162
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen271
+\ar@mcellbox=\box91
+\extrarowheight=\dimen272
+\NC@list=\toks44
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box92
+)
+\everycr=\toks45
+\minrowclearance=\skip73
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count162
+\lst@gtempboxa=\box93
+\lst@token=\toks46
+\lst@length=\count163
+\lst@currlwidth=\dimen273
+\lst@column=\count164
+\lst@pos=\count165
+\lst@lostspace=\dimen274
+\lst@width=\dimen275
+\lst@newlines=\count166
+\lst@lineno=\count167
+\lst@maxwidth=\dimen276
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count168
+\lst@skipnumbers=\count169
+\lst@framebox=\box94
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+Class acmart Info: Suppressing bibformat on input line 13.
+\c@theorem=\count170
 
 Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress' (./Daun_Arellano_GroupProject1.aux)
+Include comment 'anonsuppress' (./Daun_Arellano_GroupProject1.aux
+
+LaTeX Warning: Label `lst:Code' multiply defined.
+
+)
 \openout1 = `Daun_Arellano_GroupProject1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 14.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 14
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 17.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 17
 .
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 14.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 17.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 14
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 17
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 17.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 1
-4.
+7.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 14.
+(Font)              scaled to size 8.0pt on input line 17.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 14.
+ input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.
 fd
@@ -1311,51 +1354,51 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 14.
+(Font)              scaled to size 8.0pt on input line 17.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 14.
+(Font)              scaled to size 6.2pt on input line 17.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 14.
+(Font)              scaled to size 5.5pt on input line 17.
 <<oml.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 14.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 17.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 14.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 17.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 14.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 17.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 14.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 14.
+(Font)              size <5> substituted on input line 17.
 
-LaTeX Info: Redefining \microtypecontext on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 17.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1370,8 +1413,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box91
-Package hyperref Info: Link coloring OFF on input line 14.
+\AtBeginShipoutBox=\box95
+Package hyperref Info: Link coloring OFF on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1379,11 +1422,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count163
+\c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./Daun_Arellano_GroupProject1.out) (./Daun_Arellano_GroupProject1.out)
 \@outlinefile=\write6
@@ -1392,17 +1435,17 @@ LaTeX Info: Redefining \nameref on input line 14.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count164
-\scratchdimen=\dimen271
-\scratchbox=\box92
-\nofMPsegments=\count165
-\nofMParguments=\count166
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count167
-\MPscratchDim=\dimen272
-\MPnumerator=\count168
-\makeMPintoPDFobject=\count169
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count172
+\scratchdimen=\dimen277
+\scratchbox=\box96
+\nofMPsegments=\count173
+\nofMParguments=\count174
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count175
+\MPscratchDim=\dimen278
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
+\everyMPtoPDFconversion=\toks48
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1454,99 +1497,762 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count170
-\c@mv@boldtabular=\count171
+\c@mv@tabular=\count178
+\c@mv@boldtabular=\count179
 (/usr/local/texlive/2018/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count180
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
+(Font)              scaled to size 14.4pt on input line 32.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 29.
+nput line 32.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
+(Font)              scaled to size 14.4pt on input line 32.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
+(Font)              scaled to size 14.4pt on input line 32.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 29.
+(Font)              scaled to size 10.95pt on input line 32.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 29.
+(Font)              scaled to size 10.95pt on input line 32.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 29.
+(Font)              scaled to size 9.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 29.
+(Font)              scaled to size 9.0pt on input line 32.
 
-Underfull \hbox (badness 1237) in paragraph at lines 29--29
-[]\T1/LinuxLibertineT-TLF/m/n/8 (+20) Authors' ad-dress: Travis Daun, $trdaun @
- mail . smu . edu$; Samuel Arel-lano, $sarellano @ mail . smu . edu$, Ap-plied 
+Underfull \hbox (badness 1237) in paragraph at lines 32--32
+[]\T1/LinuxLibertineT-TLF/m/n/8 (+20) Authors' ad-dress: Samuel Arel-lano, $sar
+ellano @ mail . smu . edu$; Travis Daun, $trdaun @ mail . smu . edu$, Ap-plied 
 Sta-tis-
  []
 
 
 Package hyperref Warning: Option `pdflang' has already been used,
-(hyperref)                setting the option has no effect on input line 29.
+(hyperref)                setting the option has no effect on input line 32.
 
 
 Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
-(hyperref)                setting the option has no effect on input line 29.
+(hyperref)                setting the option has no effect on input line 32.
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 31.
+(Font)              scaled to size 10.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 31.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 38.
-No file Daun_Arellano_GroupProject1.bbl.
+(Font)              scaled to size 10.0pt on input line 36.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 39.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 39.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 52.
-[1.1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
+(Font)              scaled to size 7.3pt on input line 39.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 39.
 
-(./Daun_Arellano_GroupProject1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 47.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 10.0pt on input line 47.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zi4' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `T1/zi4/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `T1/zi4/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 48.
+[1.1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2.2]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 60.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [3.3]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 74.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[4.4]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+<../graphics/TWATable.png, id=133, 490.83376pt x 176.66pt>
+File: ../graphics/TWATable.png Graphic file (type png)
+<use ../graphics/TWATable.png>
+Package pdftex.def Info: ../graphics/TWATable.png  used on input line 130.
+(pdftex.def)             Requested size: 376.03015pt x 135.34392pt.
+<../graphics/TWAshap.png, id=139, 280.04625pt x 91.34125pt>
+File: ../graphics/TWAshap.png Graphic file (type png)
+<use ../graphics/TWAshap.png>
+Package pdftex.def Info: ../graphics/TWAshap.png  used on input line 143.
+(pdftex.def)             Requested size: 189.9931pt x 61.97185pt.
+<../graphics/TWALev.png, id=140, 435.6275pt x 71.26625pt>
+File: ../graphics/TWALev.png Graphic file (type png)
+<use ../graphics/TWALev.png>
+Package pdftex.def Info: ../graphics/TWALev.png  used on input line 144.
+(pdftex.def)             Requested size: 189.9931pt x 31.08102pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 140--147
+ [][] 
+ []
+
+<../graphics/TWAls.png, id=143, 383.4325pt x 262.9825pt>
+File: ../graphics/TWAls.png Graphic file (type png)
+<use ../graphics/TWAls.png>
+Package pdftex.def Info: ../graphics/TWAls.png  used on input line 156.
+(pdftex.def)             Requested size: 178.11891pt x 122.1652pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5.5 <../graphics/TWATable.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6.6 <../graphics/TWAshap.png> <../graphics/TWALev.png> <../graphics/TWAls.png
+>]
+<../graphics/AccelrateByVehicle.png, id=163, 616.3025pt x 732.7375pt>
+File: ../graphics/AccelrateByVehicle.png Graphic file (type png)
+<use ../graphics/AccelrateByVehicle.png>
+Package pdftex.def Info: ../graphics/AccelrateByVehicle.png  used on input line
+ 171.
+(pdftex.def)             Requested size: 376.03015pt x 447.08104pt.
+<../graphics/AccelrateByCarclass.png, id=164, 616.3025pt x 732.7375pt>
+File: ../graphics/AccelrateByCarclass.png Graphic file (type png)
+<use ../graphics/AccelrateByCarclass.png>
+Package pdftex.def Info: ../graphics/AccelrateByCarclass.png  used on input lin
+e 182.
+(pdftex.def)             Requested size: 376.03015pt x 447.08104pt.
+<../graphics/ScatterPlot.png, id=165, 616.3025pt x 732.7375pt>
+File: ../graphics/ScatterPlot.png Graphic file (type png)
+<use ../graphics/ScatterPlot.png>
+Package pdftex.def Info: ../graphics/ScatterPlot.png  used on input line 193.
+(pdftex.def)             Requested size: 376.03015pt x 447.08104pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7.7 <../graphics/AccelrateByVehicle.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8.8 <../graphics/AccelrateByCarclass.png>]
+<../graphics/PearsonVariables1.png, id=178, 416.55624pt x 406.51875pt>
+File: ../graphics/PearsonVariables1.png Graphic file (type png)
+<use ../graphics/PearsonVariables1.png>
+Package pdftex.def Info: ../graphics/PearsonVariables1.png  used on input line 
+205.
+(pdftex.def)             Requested size: 189.9931pt x 185.41292pt.
+<../graphics/PearsonVariables2.png, id=179, 616.3025pt x 570.13pt>
+File: ../graphics/PearsonVariables2.png Graphic file (type png)
+<use ../graphics/PearsonVariables2.png>
+Package pdftex.def Info: ../graphics/PearsonVariables2.png  used on input line 
+206.
+(pdftex.def)             Requested size: 189.9931pt x 175.75543pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 202--209
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9.9 <../graphics/ScatterPlot.png>]
+<../graphics/PearsonTransform1.png, id=185, 416.55624pt x 406.51875pt>
+File: ../graphics/PearsonTransform1.png Graphic file (type png)
+<use ../graphics/PearsonTransform1.png>
+Package pdftex.def Info: ../graphics/PearsonTransform1.png  used on input line 
+218.
+(pdftex.def)             Requested size: 189.9931pt x 185.41292pt.
+<../graphics/PearsonTransform2.png, id=186, 616.3025pt x 570.13pt>
+File: ../graphics/PearsonTransform2.png Graphic file (type png)
+<use ../graphics/PearsonTransform2.png>
+Package pdftex.def Info: ../graphics/PearsonTransform2.png  used on input line 
+219.
+(pdftex.def)             Requested size: 189.9931pt x 175.75543pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 215--222
+ [][] 
+ []
+
+<../graphics/Pearsonlogacc1.png, id=187, 416.55624pt x 406.51875pt>
+File: ../graphics/Pearsonlogacc1.png Graphic file (type png)
+<use ../graphics/Pearsonlogacc1.png>
+Package pdftex.def Info: ../graphics/Pearsonlogacc1.png  used on input line 231
+.
+(pdftex.def)             Requested size: 189.9931pt x 185.41292pt.
+<../graphics/Pearsonlogacc2.png, id=188, 616.3025pt x 570.13pt>
+File: ../graphics/Pearsonlogacc2.png Graphic file (type png)
+<use ../graphics/Pearsonlogacc2.png>
+Package pdftex.def Info: ../graphics/Pearsonlogacc2.png  used on input line 232
+.
+(pdftex.def)             Requested size: 189.9931pt x 175.75543pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 228--235
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10.10 <../graphics/PearsonVariables1.png> <../graphics/PearsonVariables2.png>
+ <../graphics/PearsonTransform1.png> <../graphics/PearsonTransform2.png>]
+<../graphics/ModAccMpgNoInt.png, id=197, 572.1375pt x 397.485pt>
+File: ../graphics/ModAccMpgNoInt.png Graphic file (type png)
+<use ../graphics/ModAccMpgNoInt.png>
+Package pdftex.def Info: ../graphics/ModAccMpgNoInt.png  used on input line 244
+.
+(pdftex.def)             Requested size: 189.9931pt x 131.9953pt.
+<../graphics/ModAccMpgInt.png, id=198, 572.1375pt x 511.9125pt>
+File: ../graphics/ModAccMpgInt.png Graphic file (type png)
+<use ../graphics/ModAccMpgInt.png>
+Package pdftex.def Info: ../graphics/ModAccMpgInt.png  used on input line 245.
+(pdftex.def)             Requested size: 189.9931pt x 169.99396pt.
+<../graphics/AccMpgNoInt.jpeg, id=199, 730.73pt x 587.19376pt>
+File: ../graphics/AccMpgNoInt.jpeg Graphic file (type jpg)
+<use ../graphics/AccMpgNoInt.jpeg>
+Package pdftex.def Info: ../graphics/AccMpgNoInt.jpeg  used on input line 248.
+(pdftex.def)             Requested size: 189.9931pt x 152.66676pt.
+<../graphics/AccMpgInt.jpeg, id=200, 730.73pt x 587.19376pt>
+File: ../graphics/AccMpgInt.jpeg Graphic file (type jpg)
+<use ../graphics/AccMpgInt.jpeg>
+Package pdftex.def Info: ../graphics/AccMpgInt.jpeg  used on input line 249.
+(pdftex.def)             Requested size: 189.9931pt x 152.66676pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 241--252
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11.11 <../graphics/Pearsonlogacc1.png> <../graphics/Pearsonlogacc2.png>]
+<../graphics/ModAccMsrpNoInt.png, id=207, 572.1375pt x 417.56pt>
+File: ../graphics/ModAccMsrpNoInt.png Graphic file (type png)
+<use ../graphics/ModAccMsrpNoInt.png>
+Package pdftex.def Info: ../graphics/ModAccMsrpNoInt.png  used on input line 26
+1.
+(pdftex.def)             Requested size: 189.9931pt x 138.66173pt.
+<../graphics/ModAccMsrpInt.png, id=208, 572.1375pt x 511.9125pt>
+File: ../graphics/ModAccMsrpInt.png Graphic file (type png)
+<use ../graphics/ModAccMsrpInt.png>
+Package pdftex.def Info: ../graphics/ModAccMsrpInt.png  used on input line 262.
+
+(pdftex.def)             Requested size: 189.9931pt x 169.99396pt.
+<../graphics/AccMsrpNoInt.jpeg, id=209, 730.73pt x 587.19376pt>
+File: ../graphics/AccMsrpNoInt.jpeg Graphic file (type jpg)
+<use ../graphics/AccMsrpNoInt.jpeg>
+Package pdftex.def Info: ../graphics/AccMsrpNoInt.jpeg  used on input line 265.
+
+(pdftex.def)             Requested size: 189.9931pt x 152.66676pt.
+<../graphics/AccMsrpInt.jpeg, id=210, 730.73pt x 587.19376pt>
+File: ../graphics/AccMsrpInt.jpeg Graphic file (type jpg)
+<use ../graphics/AccMsrpInt.jpeg>
+Package pdftex.def Info: ../graphics/AccMsrpInt.jpeg  used on input line 266.
+(pdftex.def)             Requested size: 189.9931pt x 152.66676pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 258--269
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12.12 <../graphics/ModAccMpgNoInt.png> <../graphics/ModAccMpgInt.png> <../gra
+phics/AccMpgNoInt.jpeg> <../graphics/AccMpgInt.jpeg>]
+<../graphics/Assumptions1.png, id=217, 584.1825pt x 585.18625pt>
+File: ../graphics/Assumptions1.png Graphic file (type png)
+<use ../graphics/Assumptions1.png>
+Package pdftex.def Info: ../graphics/Assumptions1.png  used on input line 278.
+(pdftex.def)             Requested size: 189.9931pt x 190.31721pt.
+<../graphics/Assumptions2.png, id=218, 584.1825pt x 439.6425pt>
+File: ../graphics/Assumptions2.png Graphic file (type png)
+<use ../graphics/Assumptions2.png>
+Package pdftex.def Info: ../graphics/Assumptions2.png  used on input line 279.
+(pdftex.def)             Requested size: 189.9931pt x 142.98274pt.
+
+Overfull \hbox (5.76369pt too wide) in paragraph at lines 275--282
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13.13 <../graphics/ModAccMsrpNoInt.png> <../graphics/ModAccMsrpInt.png> <../g
+raphics/AccMsrpNoInt.jpeg> <../graphics/AccMsrpInt.jpeg>]
+<../graphics/PartialFTest.png, id=226, 572.1375pt x 176.66pt>
+File: ../graphics/PartialFTest.png Graphic file (type png)
+<use ../graphics/PartialFTest.png>
+Package pdftex.def Info: ../graphics/PartialFTest.png  used on input line 291.
+(pdftex.def)             Requested size: 376.03015pt x 116.10805pt.
+<../graphics/TwoWayPlot.jpeg, id=227, 730.73pt x 587.19376pt>
+File: ../graphics/TwoWayPlot.jpeg Graphic file (type jpg)
+<use ../graphics/TwoWayPlot.jpeg>
+Package pdftex.def Info: ../graphics/TwoWayPlot.jpeg  used on input line 303.
+(pdftex.def)             Requested size: 376.03015pt x 302.17073pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14.14 <../graphics/Assumptions1.png> <../graphics/Assumptions2.png> <../graph
+ics/PartialFTest.png>]
+<../graphics/TWAqq.jpeg, id=235, 730.73pt x 587.19376pt>
+File: ../graphics/TWAqq.jpeg Graphic file (type jpg)
+<use ../graphics/TWAqq.jpeg>
+Package pdftex.def Info: ../graphics/TWAqq.jpeg  used on input line 315.
+(pdftex.def)             Requested size: 376.03015pt x 302.17073pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15.15 <../graphics/TwoWayPlot.jpeg>]
+<../graphics/TWAresid.jpeg, id=240, 730.73pt x 587.19376pt>
+File: ../graphics/TWAresid.jpeg Graphic file (type jpg)
+<use ../graphics/TWAresid.jpeg>
+Package pdftex.def Info: ../graphics/TWAresid.jpeg  used on input line 327.
+(pdftex.def)             Requested size: 376.03015pt x 302.17073pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16.16 <../graphics/TWAqq.jpeg>]
+<../graphics/TWAcon1.png, id=245, 536.0025pt x 531.9875pt>
+File: ../graphics/TWAcon1.png Graphic file (type png)
+<use ../graphics/TWAcon1.png>
+Package pdftex.def Info: ../graphics/TWAcon1.png  used on input line 339.
+(pdftex.def)             Requested size: 189.9931pt x 188.56871pt.
+<../graphics/TWAcon2.png, id=246, 536.0025pt x 531.9875pt>
+File: ../graphics/TWAcon2.png Graphic file (type png)
+<use ../graphics/TWAcon2.png>
+Package pdftex.def Info: ../graphics/TWAcon2.png  used on input line 340.
+(pdftex.def)             Requested size: 189.9931pt x 188.56871pt.
+<../graphics/TWAcon3.png, id=247, 536.0025pt x 566.115pt>
+File: ../graphics/TWAcon3.png Graphic file (type png)
+<use ../graphics/TWAcon3.png>
+Package pdftex.def Info: ../graphics/TWAcon3.png  used on input line 341.
+(pdftex.def)             Requested size: 189.9931pt x 200.66557pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17.17 <../graphics/TWAresid.jpeg>]
+Overfull \vbox (50.40309pt too high) has occurred while \output is active []
+
+
+[18.18 <../graphics/TWAcon1.png> <../graphics/TWAcon2.png> <../graphics/TWAcon3
+.png>] (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 359.
+
+(../code/AppliedStatsProject.sas
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 1.
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
+ input line 3.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.
+fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 8.
+
+Overfull \hbox (48.18202pt too wide) in paragraph at lines 8--10
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (24.18178pt too wide) in paragraph at lines 26--27
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.18214pt too wide) in paragraph at lines 32--33
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (156.18312pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[19.19]
+Overfull \hbox (132.18288pt too wide) in paragraph at lines 88--89
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (144.183pt too wide) in paragraph at lines 91--92
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 93--95
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[20.20]
+Overfull \hbox (72.18227pt too wide) in paragraph at lines 95--96
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (114.1827pt too wide) in paragraph at lines 98--99
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 100--102
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (78.18233pt too wide) in paragraph at lines 102--103
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (78.18233pt too wide) in paragraph at lines 105--106
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 107--109
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (108.18263pt too wide) in paragraph at lines 109--110
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (108.18263pt too wide) in paragraph at lines 112--113
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (282.1844pt too wide) in paragraph at lines 113--114
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (132.18288pt too wide) in paragraph at lines 114--117
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (84.18239pt too wide) in paragraph at lines 117--118
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 120--121
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (114.1827pt too wide) in paragraph at lines 123--125
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (48.18202pt too wide) in paragraph at lines 125--126
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 128--129
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 131--133
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (78.18233pt too wide) in paragraph at lines 133--134
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 136--137
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 139--141
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (114.1827pt too wide) in paragraph at lines 141--142
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[21.21]
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 144--145
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (138.18294pt too wide) in paragraph at lines 147--150
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (48.18202pt too wide) in paragraph at lines 150--151
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.18324pt too wide) in paragraph at lines 151--152
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 154--155
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (210.18367pt too wide) in paragraph at lines 157--159
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.18172pt too wide) in paragraph at lines 159--160
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.18324pt too wide) in paragraph at lines 160--161
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 163--164
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (210.18367pt too wide) in paragraph at lines 166--168
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.18184pt too wide) in paragraph at lines 168--169
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.18324pt too wide) in paragraph at lines 169--170
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 172--173
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (210.18367pt too wide) in paragraph at lines 175--177
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.18214pt too wide) in paragraph at lines 177--178
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.18324pt too wide) in paragraph at lines 178--179
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (600.18764pt too wide) in paragraph at lines 181--182
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (228.18385pt too wide) in paragraph at lines 184--186
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[22.22])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23.23]
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(../code/AppliedStatsProject.r
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 1.
+ [24.24] [25.25] [26.26] [27.27]
+Overfull \hbox (60.18214pt too wide) in paragraph at lines 191--194
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+No file Daun_Arellano_GroupProject1.bbl.
+[28.28]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+ (./Daun_Arellano_GroupProject1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `Daun_Arellano_GroupProject1.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 5FFDDB7B56233F35F4E9740768E5661B;3190.
+(rerunfilecheck)             Checksum: 92C5E4DD384B9D5C75CFEF60A2AA6B1A;2755.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 29705 strings out of 492649
- 544020 string characters out of 6129622
- 754605 words of memory out of 5000000
- 32795 multiletter control sequences out of 15000+600000
- 89043 words of font info for 97 fonts, out of 8000000 for 9000
+ 33573 strings out of 492649
+ 598622 string characters out of 6129622
+ 875689 words of memory out of 5000000
+ 35917 multiletter control sequences out of 15000+600000
+ 149045 words of font info for 252 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,5n,94p,846b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc
-}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.p
-fb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiolinum
-TB.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiol
-inumTI.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/Lin
-LibertineT.pfb>
-Output written on Daun_Arellano_GroupProject1.pdf (1 page, 215870 bytes).
+ 60i,16n,94p,1973b,2632s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_7f4ce4.enc}
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{
+/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/
+usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/u
+sr/local/texlive/2018/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/usr/
+local/texlive/2018/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/l
+ocal/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinLibertineT
+B.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/libertine/LinLiber
+tineTI.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/fxlri-7
+letters.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxm
+i.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/newtx/zxlri.pfb>
+Output written on Daun_Arellano_GroupProject1.pdf (28 pages, 4689306 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 27281 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 886 PDF objects out of 1000 (max. 8388607)
+ 763 compressed objects within 8 object streams
+ 474 named destinations out of 1000 (max. 500000)
+ 44335 words of extra memory for PDF output out of 51595 (max. 10000000)
 
