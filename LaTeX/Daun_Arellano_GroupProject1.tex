@@ -147,7 +147,7 @@ As with any ANOVA, we must meet the required assumptions of normal distribution 
 	\caption{Two Way ANOVA Assumptions.} %6
 	\label{fig:TWAASS}
 \end{table}
- Since we do have a significant interaction effect, we want to look at all the separate group combinations. Figure~\ref{fig:PHT} shows the results from this analysis. Table~\ref{fig:TWALS}
+ Since we do have a significant interaction effect, we want to look at all the separate group combinations. Figure~\ref{fig:PHT} shows the results from this analysis. Table~\ref{fig:TWALS} shows a summary of the lsmeans between each \texttt{carclass} and each \texttt{price} combination. 
  \begin{table}[h]
 \centering
 \begin{tabular}{p{0.45\textwidth}}
@@ -160,6 +160,23 @@ As with any ANOVA, we must meet the required assumptions of normal distribution 
 	\label{fig:TWALS}
 \end{table}
 \subsection{Conclusion/Discussion}
+Using the Two-Way ANOVA, we can look at the separate group combinations between \texttt{price} and \texttt{carclass}. Looking at Table~\ref{fig:PHT} we can see which combinations of interactions are statistically significant. Using a 95\% confidence interval and applying a tukey adjustment for comparing the family of 14 estimates we see that the following statistically significant interpretations can be made:\\
+\begin{itemize}
+\item[] \textbf{low, C - high, L} Holding all things constant, a HEV in \texttt{carclass} C with a \texttt{price} less than \$40,000 will have an acceleration rate 6.9 seconds slower than a HEV in \texttt{carclass} L with a \texttt{price} greater than \$40,000. So a large HEV with an msrp greater than \$40,000 will reach 60 miles per hour 6.9 seconds faster than a compact HEV with a msrp less than \$40,000.
+\item[] \textbf{low, C - high, M} Holding all things constant, a HEV in \texttt{carclass} C with a \texttt{price} less than \$40,000 will have an acceleration rate 7.0 seconds slower than a HEV in \texttt{carclass} M with a \texttt{price} greater than \$40,000. So a midsize HEV with an msrp greater than \$40,000 will reach 60 miles per hour 7.0 seconds faster than a compact HEV with a msrp less than \$40,000.
+\item[] \textbf{low, C - high, SUV} Holding all things constant, a HEV in \texttt{carclass} C with a \texttt{price} less than \$40,000 will have an acceleration rate 3.9 seconds slower than a HEV in \texttt{carclass} SUV with a \texttt{price} greater than \$40,000. So a sport utility HEV with an msrp greater than \$40,000 will reach 60 miles per hour 3.9 seconds faster than a compact HEV with a msrp less than \$40,000.
+\item[] \textbf{high, L - low, M} Holding all things constant, a HEV in \texttt{carclass} L with a \texttt{price} greater than \$40,000 will have an acceleration rate 5.1 seconds faster than a HEV in \texttt{carclass} M with a \texttt{price} less than \$40,000. So a large HEV with an msrp greater than \$40,000 will reach 60 miles per hour 5.1 seconds faster than a midsize HEV with a msrp less than \$40,000.
+\item[] \textbf{high, L - low, MV} Holding all things constant, a HEV in \texttt{carclass} L with a \texttt{price} greater than \$40,000 will have an acceleration rate 8.6 seconds faster than a HEV in \texttt{carclass} MV with a \texttt{price} less than \$40,000. So a large HEV with an msrp greater than \$40,000 will reach 60 miles per hour 5.1 seconds faster than a mini van HEV with a msrp less than \$40,000.
+\item[] \textbf{high, L - low, TS} Holding all things constant, a HEV in \texttt{carclass} L with a \texttt{price} greater than \$40,000 will have an acceleration rate 6.6 seconds faster than a HEV in \texttt{carclass} TS with a \texttt{price} less than \$40,000. So a large HEV with an msrp greater than \$40,000 will reach 60 miles per hour 6.6 seconds faster than a two-seater HEV with a msrp less than \$40,000.
+\item[] \textbf{high, M - low, M} Holding all things constant, a HEV in \texttt{carclass} M with a \texttt{price} greater than \$40,000 will have an acceleration rate 5.2 seconds faster than a HEV in \texttt{carclass} M with a \texttt{price} less than \$40,000. So a midsize HEV with an msrp greater than \$40,000 will reach 60 miles per hour 5.2 seconds faster than a midsize HEV with a msrp less than \$40,000.
+\item[] \textbf{high, M - low, MV} Holding all things constant, a HEV in \texttt{carclass} M with a \texttt{price} greater than \$40,000 will have an acceleration rate 8.8 seconds faster than a HEV in \texttt{carclass} MV with a \texttt{price} less than \$40,000. So a midsize HEV with an msrp greater than \$40,000 will reach 60 miles per hour 8.8 seconds faster than a mini van HEV with a msrp less than \$40,000.
+\item[] \textbf{high, M - low, SUV} Holding all things constant, a HEV in \texttt{carclass} M with a \texttt{price} greater than \$40,000 will have an acceleration rate 4.9 seconds faster than a HEV in \texttt{carclass} SUV with a \texttt{price} less than \$40,000. So a midsize HEV with an msrp greater than \$40,000 will reach 60 miles per hour 4.9 seconds faster than a sport utility HEV with a msrp less than \$40,000.
+\item[] \textbf{high, M - low, TS} Holding all things constant, a HEV in \texttt{carclass} M with a \texttt{price} greater than \$40,000 will have an acceleration rate 6.8 seconds faster than a HEV in \texttt{carclass} TS with a \texttt{price} less than \$40,000. So a midsize HEV with an msrp greater than \$40,000 will reach 60 miles per hour 6.8 seconds faster than a two-seater HEV with a msrp less than \$40,000.
+\item[] \textbf{low, MV - high, SUV} Holding all things constant, a HEV in \texttt{carclass} MV with a \texttt{price} less than \$40,000 will have an acceleration rate 5.7 seconds slower than a HEV in \texttt{carclass} SUV with a \texttt{price} greater than \$40,000. So a sport utility HEV with an msrp greater than \$40,000 will reach 60 miles per hour 5.7 seconds faster than a mini van HEV with a msrp less than \$40,000.
+\end{itemize}
+
+These results are very beneficial in determining which vehicle is most appropriate for the type of driving that is desired. From these results it is easy to see that if the acceleration rate is important to a consumer, then in general vehicles with an msrp greater than \$40,000 will have higher acceleration rates. It was disappointing that none of the group combinations of identical \texttt{carclass} were not statistically significant, nor were group combinations of identical \texttt{price} combinations. The two-way ANOVA provided insight into some of the factors that were not apparent in the multiple linear regression model.
+
 \pagebreak
 \appendix{} 
 \section{Graphics and Summary Tables}
@@ -350,7 +367,7 @@ As with any ANOVA, we must meet the required assumptions of normal distribution 
 \section{SAS Code}
 \lstinputlisting[
 	caption=SAS Code (AppliedStatsProject.sas)., % Caption above the listing
-	label=lst:Code, % Label for referencing this listing
+	label=lst:SASCode, % Label for referencing this listing
 	language=SAS, % Use SAS functions/syntax highlighting
 	frame=single, % Frame around the code listing
 	showstringspaces=false, % Don't put marks in string spaces
@@ -362,7 +379,7 @@ As with any ANOVA, we must meet the required assumptions of normal distribution 
 \section{R Code}
 \lstinputlisting[
 	caption=R Code (AppliedStatsProject.R)., % Caption above the listing
-	label=lst:Code, % Label for referencing this listing
+	label=lst:RCode, % Label for referencing this listing
 	language=R, % Use SAS functions/syntax highlighting
 	frame=single, % Frame around the code listing
 	showstringspaces=false, % Don't put marks in string spaces
